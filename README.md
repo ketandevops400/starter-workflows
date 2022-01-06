@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/li120121/ketanpipeline/_apis/build/status/ketandevops400.starter-workflows%20(1)?branchName=main)](https://dev.azure.com/li120121/ketanpipeline/_build/latest?definitionId=16&branchName=main)
+
 <p align="center">
   <img src="https://avatars0.githubusercontent.com/u/44036562?s=100&v=4"/> 
 </p>
